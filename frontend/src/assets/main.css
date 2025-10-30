@@ -1,0 +1,18 @@
+@import './base.css';
+
+/* 移除默认的PC端布局限制，让应用全屏显示 */
+#app {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+/* 移除网格布局，让RouterView占满整个屏幕 */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+}
