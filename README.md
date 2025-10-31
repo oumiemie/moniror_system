@@ -516,6 +516,6 @@ MIT License
 
 ## 联系方式
 
-- 项目地址: https://gitee.com/zhang-tie-tie/flask
-- 作者: 张铁铁
-- 邮箱: your-email@example.com
+- 项目地址: https://github.com/oumiemie/moniror_system.git
+- 作者: oumiemie
+- 邮箱: 3075901913@qq.com
